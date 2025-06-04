@@ -179,6 +179,10 @@ i.menu-mobile {
     background-color: #252c90;
 }
 
+.section-bg {
+    background: #eff5ff;
+}
+
 .cv .cv-title {
     font-weight: 700;
     margin-top: 20px;
